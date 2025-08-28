@@ -344,3 +344,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **RV Manager Plus 3.0** - The next generation of app management tools. Experience the difference that professional software architecture and user-centered design can make.
 
 *Built with ❤️ by the community, for the community.*
+
